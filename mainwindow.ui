@@ -84,13 +84,6 @@
          </widget>
         </item>
         <item>
-         <widget class="QPushButton" name="quitButton">
-          <property name="text">
-           <string>&amp;Quit</string>
-          </property>
-         </widget>
-        </item>
-        <item>
          <spacer name="verticalSpacer">
           <property name="orientation">
            <enum>Qt::Vertical</enum>
@@ -139,6 +132,13 @@
         </property>
        </widget>
       </item>
+      <item row="3" column="1">
+       <widget class="QPushButton" name="quitButton">
+        <property name="text">
+         <string>&amp;Quit</string>
+        </property>
+       </widget>
+      </item>
      </layout>
     </item>
    </layout>
@@ -159,7 +159,6 @@
   <tabstop>inputTextEdit</tabstop>
   <tabstop>hashButton</tabstop>
   <tabstop>outputLineEdit</tabstop>
-  <tabstop>quitButton</tabstop>
  </tabstops>
  <resources>
   <include location="md5.qrc"/>
