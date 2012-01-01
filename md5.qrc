@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/md5">
+        <file>icon/programming.ico</file>
+        <file>icon/about.ico</file>
+    </qresource>
+</RCC>
