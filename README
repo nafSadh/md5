@@ -1,0 +1,4 @@
+Program calculate MD5 message digest.
+
+Use Qt framework to creat interface
+and MD5 C++ class by Frank Thilo (http://www.bzflag.org).
