@@ -1,6 +1,6 @@
 DESCRIPTION
 ===========
-The program calculate MD5 message digest.
+The program calculates MD5 message digest of input strings.
 
 REQUIREMENTS
 ============
